@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlWzfteJvCz7Fh5eE8XPS3GpKPSw94QgDRYwzMgePuyr0nGsacQ1b7Fyeoc4tvZQJAScqShcMBFe29rqRc/01A==",
+  "success": true,
+  "projectFilePath": "/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/PrimeService.csproj",
+  "expectedPackageFiles": [
+    "/Users/fixationvideo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/fixationvideo/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
