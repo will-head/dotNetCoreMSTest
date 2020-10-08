@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "okTrpDOKdmvs4HFlq7yOIcr9DwjCcNBmz7Nub674UALzNNlucqNpEACqtzS1g1wbTRfU81deg9KdA+xQ12ZpcA==",
+  "dgSpecHash": "Kl02l7jBz6tQc8WInwzUaaD0c4mxNaLWYPiy6gceYky6Gl/7mDG0/QTJ3Q1f16cypGGHzyooJ2j4TXEudlq3sw==",
   "success": true,
   "projectFilePath": "/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService.Tests/PrimeService.Tests.csproj",
   "expectedPackageFiles": [

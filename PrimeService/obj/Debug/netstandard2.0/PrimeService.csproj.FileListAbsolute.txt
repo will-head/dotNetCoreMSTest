@@ -1,0 +1,9 @@
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/fixationvideo/Coding/projects/dotNetCoreMSTest/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
