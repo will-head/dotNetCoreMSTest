@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/fixationvideo/.dotnet/store/|arch|/|tfm|",
-      "/Users/fixationvideo/.nuget/packages"
-    ]
-  }
-}
